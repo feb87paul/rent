@@ -1,0 +1,6 @@
+{
+  "name": "Weekly Rent Manager",
+  "description": "Weekly rent management application for managing tenants, weekly rent payments, payment status, WhatsApp receipts & reminders, reports, calendar view, and dashboard analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
